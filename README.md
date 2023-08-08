@@ -1,4 +1,4 @@
-# US_Consumption_Habits
+# US Consumption Habits
 
 Understanding consumption habits is critical for marketers and investors. This project will explore how the U.S. consumers' behavior has evolved from 1929 to 2021. 
 
